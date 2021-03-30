@@ -6,7 +6,7 @@
 - 多态
 
 Version: 0.1
-Author: 骆昊
+Author: kuangcx
 Date: 2018-03-12
 """
 

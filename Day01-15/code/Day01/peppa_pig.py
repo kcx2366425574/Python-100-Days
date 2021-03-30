@@ -8,7 +8,7 @@ def nose(x,y):
     """画鼻子"""
     penup()
     # 将海龟移动到指定的坐标
-    goto(x,y)
+    goto(x, y)
     pendown()
     # 设置海龟的方向（0-东、90-北、180-西、270-南）
     setheading(-30)

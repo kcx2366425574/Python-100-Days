@@ -2,7 +2,7 @@
 使用Process类创建多个进程
 
 Version: 0.1
-Author: 骆昊
+Author: kuangcx
 Date: 2018-03-20
 """
 
